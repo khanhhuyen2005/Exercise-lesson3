@@ -1,0 +1,30 @@
+.container {
+    margin: auto;
+    width: 225px;
+    border: 2px solid;
+    border-color: #a2a0a0;
+    border-radius: 6px;
+    padding: 20px;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.title {
+    margin: 0;
+}
+
+.price {
+    margin: 15px 0;
+    color: #787777;
+    font-size: 15px;
+}
+
+.button-order {
+    padding: 12px 20px;
+    background-color: #08ac08;
+    color: #eceaea;
+    border: none;
+    border-radius: 5px;
+}

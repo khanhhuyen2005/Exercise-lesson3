@@ -1,0 +1,25 @@
+.menu-bar {
+    display: flex;
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+}
+
+.menu-bar li {
+    margin: 0 20px;
+    list-style: none;
+   
+}
+
+a:hover {
+    background-color: grey;
+}
+
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+}

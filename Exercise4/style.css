@@ -1,0 +1,94 @@
+.container {
+    display: flex;
+    background-color: gray;
+    padding: 30px;
+    margin: auto;
+    width: 700px;
+    justify-content: center;
+}
+
+.target {
+    padding: 20px 17px;
+    background-color: #edf6b4;
+    border: 2px solid #f4f43a;
+    margin: 50px;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.target-1 {
+    padding: 20px 17px;
+    background-color: #8ce033;
+    border: 2px solid #34bb43;
+    margin: 80px 20px 50px 20px;
+    color: white;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.target-2 {
+    padding: 20px 17px;
+    background-color: #14a21e;
+    border: 2px solid #047615;
+    margin: 0px 50px 30px 50px;
+    color: white;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.target-3 {
+    padding: 20px 17px;
+    background-color: #13caf3;
+    border: 2px solid #3a9df4;
+    margin: 80px 20px 50px 20px;
+    color: white;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.target-4 {
+    padding: 20px 17px;
+    background-color: #b6180d;
+    border: 2px solid #89190b;
+    margin: 80px 20px 50px 20px;
+    color: white;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.target-5 {
+    padding: 20px 17px;
+    background-color: #c71c80;
+    border: 2px solid #a4126f;
+    margin: 20px;
+    color: white;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 25px;
+    margin: 30px 50px 0px 50px;
+}
+
+.target-6 {
+    padding: 20px 17px;
+    background-color: #3b4af1;
+    border: 2px solid #270c9e;
+    margin: 20px;
+    color: white;
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-size: 25px;
+}

@@ -1,0 +1,90 @@
+.container {
+    height: 730px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPXwXRmrlQu_O-udSdvmZ9tSIuQupZSFCYQ&s");
+    background-repeat: no-repeat;
+  background-size: 1600px;
+}
+
+.header {
+
+    border-bottom: 2px solid red;
+}
+
+.content-header {
+    display: flex;
+    padding: 10px 20px;
+    border: 2px solid red;
+    border-top: none;
+    border-bottom: none;
+    justify-content: space-between;
+    margin: 0 50px;
+}
+
+.header img {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    border-top: none;
+}
+
+.info {
+    display: flex;
+    /* margin: 20px; */
+    padding: 10px;
+}
+
+.create {
+    border: 2px solid red;
+    padding: 7px;
+    border-right: none;
+    background-color: white;
+}
+
+.create button {
+    border: 1px solid red;
+    border-top: none;
+    color: #09be09;
+}
+
+.sign-up {
+    border: 2px solid red;
+    border-right: none;
+    color: #09be09;
+}
+
+.body {
+    height: 630px;
+    display: flex;
+    margin: 0 50px;
+    border: 2px solid red;
+    border-top: none;
+    border-bottom: none;
+}
+
+.body .content {
+    width: 390px;
+    margin: 0 20px;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+}
+
+.content h2 {
+    margin: 80px 0 20px 0;
+    color: white;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    padding: 5px;
+}
+
+.content p {
+    margin-bottom: 30px;
+    color: white;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    padding: 5px;
+}
+
+.footer {
+    border-top: 2px solid white;
+    height: 20px;
+}
